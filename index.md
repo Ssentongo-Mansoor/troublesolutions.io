@@ -1,6 +1,6 @@
 ## Welcome to Trouble Solutions
 
-You can use the this platform (https://github.com/Ssentongo-Mansoor/troublesolutions.io//index.md) to write and post an incident post-mortem report for any problem that you have ever solved.
+You can use the this platform (https://github.com/Ssentongo-Mansoor/troublesolutions.io/index.md) to write and post an incident post-mortem report for any problem that you have ever solved.
 
 This is to ensure that everyone can learn from the committed mistakes. Mistakes are there for us to learn not to blame anyone
 
