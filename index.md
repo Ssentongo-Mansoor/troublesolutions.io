@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to Trouble Solutions
 
-You can use the [editor on GitHub](https://github.com/Ssentongo-Mansoor/troublesolutions.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the this platform (https://github.com/Ssentongo-Mansoor/troublesolutions.io//index.md) to write and post an incident post-mortem report for any problem that you have ever solved.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This is to ensure that everyone can learn from the committed mistakes. Mistakes are there for us to learn not to blame anyone
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Post it here to help another one to solve it.
 
 ```markdown
 Syntax highlighted code block
